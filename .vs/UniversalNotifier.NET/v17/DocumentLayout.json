@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspaces\\UniversalNotifier.NET\\UniversalNotifier.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C30DEEF-1B64-4D7A-92AA-2E00A4D54331}|UniversalNotifier.NET.Mailgun\\UniversalNotifier.NET.Mailgun.csproj|d:\\workspaces\\universalnotifier.net\\universalnotifier.net\\universalnotifier.net.mailgun\\mailgunnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C30DEEF-1B64-4D7A-92AA-2E00A4D54331}|UniversalNotifier.NET.Mailgun\\UniversalNotifier.NET.Mailgun.csproj|solutionrelative:universalnotifier.net.mailgun\\mailgunnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F63C93D-989B-4B86-AB51-CA704F8C7B09}|UniversalNotifier.NET\\UniversalNotifier.NET.csproj|d:\\workspaces\\universalnotifier.net\\universalnotifier.net\\universalnotifier.net\\models\\emailmodels\\emailnotifiercontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F63C93D-989B-4B86-AB51-CA704F8C7B09}|UniversalNotifier.NET\\UniversalNotifier.NET.csproj|solutionrelative:universalnotifier.net\\models\\emailmodels\\emailnotifiercontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F63C93D-989B-4B86-AB51-CA704F8C7B09}|UniversalNotifier.NET\\UniversalNotifier.NET.csproj|d:\\workspaces\\universalnotifier.net\\universalnotifier.net\\universalnotifier.net\\models\\emailmodels\\emailnotifierreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F63C93D-989B-4B86-AB51-CA704F8C7B09}|UniversalNotifier.NET\\UniversalNotifier.NET.csproj|solutionrelative:universalnotifier.net\\models\\emailmodels\\emailnotifierreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F63C93D-989B-4B86-AB51-CA704F8C7B09}|UniversalNotifier.NET\\UniversalNotifier.NET.csproj|d:\\workspaces\\universalnotifier.net\\universalnotifier.net\\universalnotifier.net\\models\\notifierresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F63C93D-989B-4B86-AB51-CA704F8C7B09}|UniversalNotifier.NET\\UniversalNotifier.NET.csproj|solutionrelative:universalnotifier.net\\models\\notifierresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F63C93D-989B-4B86-AB51-CA704F8C7B09}|UniversalNotifier.NET\\UniversalNotifier.NET.csproj|d:\\workspaces\\universalnotifier.net\\universalnotifier.net\\universalnotifier.net\\inotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F63C93D-989B-4B86-AB51-CA704F8C7B09}|UniversalNotifier.NET\\UniversalNotifier.NET.csproj|solutionrelative:universalnotifier.net\\inotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F63C93D-989B-4B86-AB51-CA704F8C7B09}|UniversalNotifier.NET\\UniversalNotifier.NET.csproj|d:\\workspaces\\universalnotifier.net\\universalnotifier.net\\universalnotifier.net\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F63C93D-989B-4B86-AB51-CA704F8C7B09}|UniversalNotifier.NET\\UniversalNotifier.NET.csproj|solutionrelative:universalnotifier.net\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F63C93D-989B-4B86-AB51-CA704F8C7B09}|UniversalNotifier.NET\\UniversalNotifier.NET.csproj|d:\\workspaces\\universalnotifier.net\\universalnotifier.net\\universalnotifier.net\\models\\inotifierreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F63C93D-989B-4B86-AB51-CA704F8C7B09}|UniversalNotifier.NET\\UniversalNotifier.NET.csproj|solutionrelative:universalnotifier.net\\models\\inotifierreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F63C93D-989B-4B86-AB51-CA704F8C7B09}|UniversalNotifier.NET\\UniversalNotifier.NET.csproj|d:\\workspaces\\universalnotifier.net\\universalnotifier.net\\universalnotifier.net\\models\\inotifiercontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F63C93D-989B-4B86-AB51-CA704F8C7B09}|UniversalNotifier.NET\\UniversalNotifier.NET.csproj|solutionrelative:universalnotifier.net\\models\\inotifiercontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailNotifierContent.cs",
+              "DocumentMoniker": "D:\\Workspaces\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET\\Models\\EmailModels\\EmailNotifierContent.cs",
+              "RelativeDocumentMoniker": "UniversalNotifier.NET\\Models\\EmailModels\\EmailNotifierContent.cs",
+              "ToolTip": "D:\\Workspaces\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET\\Models\\EmailModels\\EmailNotifierContent.cs",
+              "RelativeToolTip": "UniversalNotifier.NET\\Models\\EmailModels\\EmailNotifierContent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:04:38.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailNotifierReceiver.cs",
+              "DocumentMoniker": "D:\\Workspaces\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET\\Models\\EmailModels\\EmailNotifierReceiver.cs",
+              "RelativeDocumentMoniker": "UniversalNotifier.NET\\Models\\EmailModels\\EmailNotifierReceiver.cs",
+              "ToolTip": "D:\\Workspaces\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET\\Models\\EmailModels\\EmailNotifierReceiver.cs",
+              "RelativeToolTip": "UniversalNotifier.NET\\Models\\EmailModels\\EmailNotifierReceiver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:39:46.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailNotifier.cs",
+              "DocumentMoniker": "D:\\Workspaces\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET\\EmailNotifier.cs",
+              "RelativeDocumentMoniker": "UniversalNotifier.NET\\EmailNotifier.cs",
+              "ToolTip": "D:\\Workspaces\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET\\EmailNotifier.cs",
+              "RelativeToolTip": "UniversalNotifier.NET\\EmailNotifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:37:58.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MailgunNotifier.cs",
+              "DocumentMoniker": "D:\\Workspaces\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET.Mailgun\\MailgunNotifier.cs",
+              "RelativeDocumentMoniker": "UniversalNotifier.NET.Mailgun\\MailgunNotifier.cs",
+              "ToolTip": "D:\\Workspaces\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET.Mailgun\\MailgunNotifier.cs",
+              "RelativeToolTip": "UniversalNotifier.NET.Mailgun\\MailgunNotifier.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAADgv0cAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:24:48.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "INotifierReceiver.cs",
+              "DocumentMoniker": "D:\\Workspaces\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET\\Models\\INotifierReceiver.cs",
+              "RelativeDocumentMoniker": "UniversalNotifier.NET\\Models\\INotifierReceiver.cs",
+              "ToolTip": "D:\\Workspaces\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET\\Models\\INotifierReceiver.cs",
+              "RelativeToolTip": "UniversalNotifier.NET\\Models\\INotifierReceiver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:51:57.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "INotifierContent.cs",
+              "DocumentMoniker": "D:\\Workspaces\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET\\Models\\INotifierContent.cs",
+              "RelativeDocumentMoniker": "UniversalNotifier.NET\\Models\\INotifierContent.cs",
+              "ToolTip": "D:\\Workspaces\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET\\Models\\INotifierContent.cs",
+              "RelativeToolTip": "UniversalNotifier.NET\\Models\\INotifierContent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:49:11.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotifierResponse.cs",
+              "DocumentMoniker": "D:\\Workspaces\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET\\Models\\NotifierResponse.cs",
+              "RelativeDocumentMoniker": "UniversalNotifier.NET\\Models\\NotifierResponse.cs",
+              "ToolTip": "D:\\Workspaces\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET\\Models\\NotifierResponse.cs",
+              "RelativeToolTip": "UniversalNotifier.NET\\Models\\NotifierResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:44:57.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INotifier.cs",
+              "DocumentMoniker": "D:\\Workspaces\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET\\INotifier.cs",
+              "RelativeDocumentMoniker": "UniversalNotifier.NET\\INotifier.cs",
+              "ToolTip": "D:\\Workspaces\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET\\INotifier.cs",
+              "RelativeToolTip": "UniversalNotifier.NET\\INotifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:35:50.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
