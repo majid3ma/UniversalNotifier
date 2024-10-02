@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Workspaces\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET.csproj": {}
+    "D:\\Workspaces\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET.csproj": {}
   },
   "projects": {
-    "D:\\Workspaces\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET.csproj": {
+    "D:\\Workspaces\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Workspaces\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET.csproj",
+        "projectUniqueName": "D:\\Workspaces\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET.csproj",
         "projectName": "UniversalNotifier.NET",
-        "projectPath": "D:\\Workspaces\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET.csproj",
+        "projectPath": "D:\\Workspaces\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET.csproj",
         "packagesPath": "C:\\Users\\majid\\.nuget\\packages\\",
-        "outputPath": "D:\\Workspaces\\UniversalNotifier.NET\\UniversalNotifier.NET\\UniversalNotifier.NET\\obj\\",
+        "outputPath": "D:\\Workspaces\\UniversalNotifier.NET\\UniversalNotifier.NET\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -10,3 +10,15 @@ D:\Workspaces\UniversalNotifier.NET\UniversalNotifier.NET\UniversalNotifier.NET\
 D:\Workspaces\UniversalNotifier.NET\UniversalNotifier.NET\UniversalNotifier.NET\obj\Debug\net8.0\refint\UniversalNotifier.NET.dll
 D:\Workspaces\UniversalNotifier.NET\UniversalNotifier.NET\UniversalNotifier.NET\obj\Debug\net8.0\UniversalNotifier.NET.pdb
 D:\Workspaces\UniversalNotifier.NET\UniversalNotifier.NET\UniversalNotifier.NET\obj\Debug\net8.0\ref\UniversalNotifier.NET.dll
+D:\Workspaces\UniversalNotifier.NET\UniversalNotifier.NET\bin\Debug\net8.0\UniversalNotifier.NET.deps.json
+D:\Workspaces\UniversalNotifier.NET\UniversalNotifier.NET\bin\Debug\net8.0\UniversalNotifier.NET.dll
+D:\Workspaces\UniversalNotifier.NET\UniversalNotifier.NET\bin\Debug\net8.0\UniversalNotifier.NET.pdb
+D:\Workspaces\UniversalNotifier.NET\UniversalNotifier.NET\obj\Debug\net8.0\UniversalNotifier.NET.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspaces\UniversalNotifier.NET\UniversalNotifier.NET\obj\Debug\net8.0\UniversalNotifier.NET.AssemblyInfoInputs.cache
+D:\Workspaces\UniversalNotifier.NET\UniversalNotifier.NET\obj\Debug\net8.0\UniversalNotifier.NET.AssemblyInfo.cs
+D:\Workspaces\UniversalNotifier.NET\UniversalNotifier.NET\obj\Debug\net8.0\UniversalNotifier.NET.csproj.CoreCompileInputs.cache
+D:\Workspaces\UniversalNotifier.NET\UniversalNotifier.NET\obj\Debug\net8.0\UniversalNotifier.NET.sourcelink.json
+D:\Workspaces\UniversalNotifier.NET\UniversalNotifier.NET\obj\Debug\net8.0\UniversalNotifier.NET.dll
+D:\Workspaces\UniversalNotifier.NET\UniversalNotifier.NET\obj\Debug\net8.0\refint\UniversalNotifier.NET.dll
+D:\Workspaces\UniversalNotifier.NET\UniversalNotifier.NET\obj\Debug\net8.0\UniversalNotifier.NET.pdb
+D:\Workspaces\UniversalNotifier.NET\UniversalNotifier.NET\obj\Debug\net8.0\ref\UniversalNotifier.NET.dll
