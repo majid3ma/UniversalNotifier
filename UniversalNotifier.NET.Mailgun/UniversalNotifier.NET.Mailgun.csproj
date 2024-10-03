@@ -4,7 +4,21 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/majid3ma/UniversalNotifier.NET</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackAsTool>True</PackAsTool>
+    <PackageProjectUrl>https://github.com/majid3ma/UniversalNotifier.NET</PackageProjectUrl>
+    <Title>UniversalNotifier.NET</Title>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\UniversalNotifier.NET\UniversalNotifier.NET.csproj" />
