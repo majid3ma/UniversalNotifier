@@ -1,9 +1,27 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
+	
   <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
+	  <TargetFramework>net8.0</TargetFramework>
+	  <ImplicitUsings>enable</ImplicitUsings>
+	  <Nullable>enable</Nullable>
+	  <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+	  <PackageReadmeFile>README.md</PackageReadmeFile>
+	  <RepositoryUrl>https://github.com/majid3ma/UniversalNotifier.NET</RepositoryUrl>
+	  <RepositoryType>git</RepositoryType>
+	  <PackAsTool>False</PackAsTool>
+	  <PackageProjectUrl>https://github.com/majid3ma/UniversalNotifier.NET</PackageProjectUrl>
+	  <Authors>Majid Allahverdi</Authors>
+	  <Version>1.0.1</Version>
+	  <Title>UniversalNotifier.NET</Title>
   </PropertyGroup>
+
+	
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
