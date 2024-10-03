@@ -54,10 +54,6 @@ Pass these values to the `MailGunNotifier` when initializing the object.
 
 Contributions are welcome! Feel free to submit pull requests for new features or bug fixes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any questions or feedback, feel free to open an issue or reach out to me.
